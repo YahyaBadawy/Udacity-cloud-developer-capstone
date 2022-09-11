@@ -1,0 +1,52 @@
+{
+  "name": "typescript-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.3",
+    "@mui/material": "^5.10.3",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.2.0",
+    "dateformat": "^3.0.3",
+    "immutability-helper": "^3.0.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.1.3",
+    "styled-components": "^5.3.5",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/dateformat": "^3.0.1",
+    "@types/jest": "26.0.24",
+    "@types/node": "16.3.2",
+    "@types/react": "17.0.14",
+    "@types/react-dom": "17.0.9",
+    "@types/react-router-dom": "^5.1.8",
+    "@types/styled-components": "^5.1.26",
+    "@types/uuid": "^8.3.4",
+    "auth0-js": "^9.16.2",
+    "axios": "^0.21.1",
+    "video.js": "^7.20.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

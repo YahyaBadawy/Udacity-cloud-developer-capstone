@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "video",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "minLength": 5
+      },
+      "createdAt": {
+        "type": "string",
+        "minLength": 5
+      }
+    },
+    "required": [
+      "name",
+      "createdAt"
+    ],
+    "additionalProperties": false
+}
